@@ -7,6 +7,7 @@ BrainFur is an BrainFuck dialect, but vibecoded in one night just because of one
 
 ## Syntax?
 _Note, that BrainFur can be tabulated and split in lines, but it doesn't have to._ 
+
 <details markdown='1'><summary>Syntax summary</summary>
 
 |   Furbish   | Brainfuck |         C Equivalent         | Literal Meaning | Interpretation in Dialect         |
@@ -60,8 +61,6 @@ tee-dah kah-nah
 
 </details>
 
-<br>
-
 <details markdown='1'><summary>Same code on BrainFuck</summary>
 
 ```brainfuck
@@ -99,4 +98,4 @@ run_brainfur("tah-tah kah-nah", input())
 ## License?
 Do what you want with it, but specify original project and author. 
 
-Basically, MIT license, as seen in license file. :)
+Basically, MIT license, as seen in LICENSE file. :)
