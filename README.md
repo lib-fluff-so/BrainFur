@@ -73,7 +73,7 @@ tee-dah kah-nah
 
 ## How to interpret?
 _You need vanilla python to interpret BrainFur code._ 
-There is a file, called **brainfur.py** in the GitHub repository. You simply import this file (`import brainfur`) and execute function **run_brainfur(code_to_execute, (optional)user_input)**. 
+There is a file, called **brainfur.py** in the GitHub repository. You simply import this file (`import brainfur`) and execute function `run_brainfur(code_to_execute, (optional)user_input).` 
 
 <details markdown='1'><summary>Sample code</summary>
 
